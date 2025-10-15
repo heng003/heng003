@@ -20,5 +20,3 @@ I'm **Heng Xiao Xuan**, a **final year Software Engineering student** at the **F
 * **🤔 Ask me about:** **Software Engineering** concepts, my journey at **UM**, or **[a specific technology you're good at, e.g., Python, Java, SQL]**.
 
 * **📫 How to reach me:** You can send me an email at **hengxiaoxuan2003@gmail.com**.
-
-* **⚡ Fun fact:** I'm a big fan of **swimming** to clear my head and stay fit! (***Note: I included the fun fact from the previous chat.***)
