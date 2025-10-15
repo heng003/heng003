@@ -15,8 +15,6 @@ I'm **Heng Xiao Xuan**, a **final year Software Engineering student** at the **F
 
 * **💻 I'm interested in:** **Full-Stack Development** (especially the integration of data visualization with back-end APIs), **AI/ML for HealthTech**, and **Software Architecture**.
 
-* **👯 I’m looking to collaborate on:** **Building APIs and data dashboards** for non-profit or educational projects. I'm keen to apply my skills in database design and connecting the front-end to a robust back-end. (***Note: I included the collaboration point from the previous chat.***)
-
 ### 💬 Let's Connect
 
 * **🤔 Ask me about:** **Software Engineering** concepts, my journey at **UM**, or **[a specific technology you're good at, e.g., Python, Java, SQL]**.
